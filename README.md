@@ -1,12 +1,43 @@
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=180&section=header&text=Hi,+I’m+@Buwanekafernando&fontSize=40&fontColor=fff&animation=fadeIn" alt="Header Banner" />
+
+<br>
+
+<a href="https://www.linkedin.com/in/buwaneka-fernando-848684237">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:fernandobuwaneka@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Reach+Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://github.com/Buwanekafernando">
+  <img src="https://komarev.com/ghpvc/?username=Buwanekafernando&label=Profile+Views&color=00BFFF&style=for-the-badge" />
+</a>
+
+</div>
+
 - 👋 Hi, I’m @Buwanekafernando
 - 👀 I’m interested in AI, Machine Learning, Web Development,and Data Science 
 - 🌱 I’m currently learning MERN stack, Data Science, Machine Learning, and Cloud Computing
 - 💞️ I’m looking to collaborate on innovative projects, open-source contributions, and freelance opportunities
-- 📫 How to reach me: fernandobuwaneka@gmail.com or https://www.linkedin.com/in/buwanekafernando-848684237
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm passionate about entrepreneurship and love exploring the cosmos!
 
-<!---
-Buwanekafernando/Buwanekafernando is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## ⚡ Tech Galaxy
+
+<div align="center">
+
+| 💻 **Programming Languages** | 🌐 **Web Development & Frameworks** | 🧠 **Data Science & Machine Learning** | ☁️ **Tools, Cloud & Platforms** |
+|-------------------------------|--------------------------------------|----------------------------------------|---------------------------------|
+| Java, Kotlin, Python, JavaScript, SQL, C++, C, R | MERN Stack (MongoDB, Express.js, React.js, Node.js), HTML5, CSS, Tailwind CSS, Spring Boot, OpenAPI, FastAPI, RESTful APIs, OAuth 2.0, WebSocket | ETL/ELT Pipelines, Pandas, NumPy, Keras, TensorFlow, Matplotlib, Plotly, ggplot2, dplyr, Scikit-Learn, NLP, CNN | VS Code, GitHub, Cloudinary, Android Studio, RStudio, Figma, MS SQL Server, Power BI, Postman, Google Cloud Storage, AWS, Microsoft Azure, Docker |
+| 🧭 **Databases** | ⚙️ **Methodologies & Paradigms** |  |  |
+| MongoDB, MySQL, SQLite, Data Modeling, Schema Design | Agile, Object-Oriented Programming |  |  |
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=java,kotlin,python,js,cpp,c,r,html,css,react,nodejs,express,mongodb,mysql,spring,fastapi,tailwind,tensorflow,keras,aws,gcp,azure,git,docker,vscode,androidstudio,figma,powerbi,postman,rstudio&perline=10&theme=dark" />
+
+</div>
+
+
