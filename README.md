@@ -30,13 +30,13 @@
 
 | 💻 **Programming Languages** | 🌐 **Web Development & Frameworks** | 🧠 **Data Science & Machine Learning** | ☁️ **Tools, Cloud & Platforms** |
 |-------------------------------|--------------------------------------|----------------------------------------|---------------------------------|
-| Java, Kotlin, Python, JavaScript, TypeScript, SQL, C++, C, R | MERN Stack (MongoDB, Express.js, React.js, Node.js), HTML5, CSS, Tailwind CSS, Spring Boot, OpenAPI, FastAPI, RESTful APIs, OAuth 2.0, WebSocket | ETL/ELT Pipelines, Pandas, NumPy, Keras, TensorFlow, Matplotlib, Plotly, ggplot2, dplyr, Scikit-Learn, NLP, CNN | VS Code, GitHub, Cloudinary, Android Studio, RStudio, Figma, MS SQL Server, Power BI, Postman, Google Cloud Storage, AWS, Microsoft Azure, Docker |
+| Java, Kotlin, Python, JavaScript, TypeScript, SQL, C++, C, R | MERN Stack (MongoDB, Express.js, React.js, Node.js), HTML5, CSS, Tailwind CSS, PHP, Spring Boot, OpenAPI, FastAPI, RESTful APIs, OAuth 2.0, WebSocket | ETL/ELT Pipelines, Pandas, NumPy, Keras, TensorFlow, Matplotlib, Plotly, ggplot2, dplyr, Scikit-Learn, NLP, CNN | VS Code, GitHub, Cloudinary, Android Studio, RStudio, Figma, MS SQL Server, Power BI, Postman, Google Cloud Storage, AWS, Microsoft Azure, Docker |
 | 🧭 **Databases** | ⚙️ **Methodologies & Paradigms** |  |  |
 | MongoDB, MySQL, SQLite, Data Modeling, Schema Design | Agile, Object-Oriented Programming |  |  |
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=java,kotlin,python,js,ts,cpp,c,r,html,css,react,nodejs,express,mongodb,mysql,spring,fastapi,tailwind,tensorflow,keras,aws,gcp,azure,git,docker,vscode,androidstudio,figma,powerbi,postman,rstudio&perline=10&theme=dark" />
+<img src="https://skillicons.dev/icons?i=java,kotlin,python,js,ts,cpp,c,r,html,css,react,nodejs,express,php,mongodb,mysql,spring,fastapi,tailwind,tensorflow,keras,aws,gcp,azure,git,docker,vscode,androidstudio,figma,powerbi,postman,rstudio&perline=10&theme=dark" />
 
 </div>
 
