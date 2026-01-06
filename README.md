@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=180&section=header&text=Hi,+I’m+@Buwanekafernando&fontSize=40&fontColor=fff&animation=fadeIn" alt="Header Banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=180&section=header&text=Hi,+I’m+Buwaneka_Fernando&fontSize=40&fontColor=fff&animation=fadeIn" alt="Header Banner" />
 
 <br>
 
@@ -17,7 +17,7 @@
 
 </div>
 
-- 👋 Hi, I’m @Buwanekafernando
+- 👋 Hi, I’m Buwaneka Fernando
 - 👀 I’m interested in AI, Machine Learning, Web Development,and Data Science 
 - 🌱 I’m currently learning MERN stack, Data Science, Machine Learning, and Cloud Computing
 - 💞️ I’m looking to collaborate on innovative projects, open-source contributions, and freelance opportunities
