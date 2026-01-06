@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=180&section=header&text=Hi,+I’m+Buwaneka_Fernando&fontSize=40&fontColor=fff&animation=fadeIn" alt="Header Banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=180&section=header&text=Hi,+I’m+Buwaneka+Fernando&fontSize=40&fontColor=fff&animation=fadeIn" alt="Header Banner" />
 
 <br>
 
